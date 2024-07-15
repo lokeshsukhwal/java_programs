@@ -1,5 +1,9 @@
 import java.util.Scanner;
-
+/**
+* write a Java program in the one you have to take the input as Indian currency note value like 10,20,50,100,2000
+  and at the end of program, you have to calculate the sum of the currency note value like 
+  the total amount is.....
+*/
 public class CurrencyCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
